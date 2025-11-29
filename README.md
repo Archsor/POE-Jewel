@@ -3,6 +3,8 @@
 https://github.com/Archsor/POE-Jewel/releases/download/3.27/poe-jewel.7z  
 下载完压缩包解压缩到桌面,然后在浏览器的管理扩展里安装即可  
 ![解压安装插件](image/1.png)  
-![点击开启关闭](image/2.png)  
+
 **使用方式**  
-点击插件开关,开启则替换,不开启不替换
+点击插件开关,开启则替换,不开启不替换  
+![点击开启关闭](image/2.png)  
+
